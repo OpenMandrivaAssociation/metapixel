@@ -1,7 +1,7 @@
 
 %define name	metapixel
 %define version	1.0.2
-%define rel	2
+%define rel	3
 
 Summary:	Photomosaic generator
 Name:		%{name}
