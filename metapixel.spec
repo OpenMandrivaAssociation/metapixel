@@ -9,7 +9,7 @@ Version:	%{version}
 Release:	%mkrel %{rel}
 License:	GPLv2+
 Group:		Graphics
-URL:		http://www.complang.tuwien.ac.at/schani/metapixel/
+URL:		https://www.complang.tuwien.ac.at/schani/metapixel/
 Source:		http://www.complang.tuwien.ac.at/schani/metapixel/files/metapixel-%{version}.tar.gz
 BuildRoot:	%{_tmppath}/%{name}-root
 BuildRequires:	ungif-devel
