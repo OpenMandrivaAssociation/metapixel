@@ -12,6 +12,7 @@ Group:		Graphics
 URL:		https://www.complang.tuwien.ac.at/schani/metapixel/
 Source:		http://www.complang.tuwien.ac.at/schani/metapixel/files/metapixel-%{version}.tar.gz
 BuildRoot:	%{_tmppath}/%{name}-root
+BuildRequires:	make
 BuildRequires:	ungif-devel
 BuildRequires:	jpeg-devel
 BuildRequires:	png-devel
